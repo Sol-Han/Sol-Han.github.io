@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Sol Han # Title of your site
-url: "https://www.notion.so/studyms" # the base hostname & protocol for your site
+url: "https://solhan.notion.site" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -18,7 +18,7 @@ author:
 social:
   name: Sol Han
   links:
-    - https://www.notion.so/studyms
+    - https://solhan.notion.site
 
 permalink: pretty
 
